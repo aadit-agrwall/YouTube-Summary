@@ -1,0 +1,5 @@
+streamlit>=1.45.0
+python-dotenv>=1.0.1
+langchain-text-splitters>=0.3.8
+langchain-groq>=0.3.2
+youtube-transcript-api>=0.6.2
